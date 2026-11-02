@@ -4,3 +4,4 @@
 
 - Sinh viên: Trần Minh Dương – MSSV 202417234
 - Chạy chương trình: `python main.py`
+- Requires Python 3.10+

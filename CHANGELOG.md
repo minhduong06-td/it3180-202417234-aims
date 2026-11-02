@@ -1,8 +1,10 @@
 # Changelog
 
 ## [Unreleased]
+
+## [1.1.0] - 2026-11-02
 ### Added
-- Sort cart by title and cost.
+- Sắp xếp giỏ hàng và tìm DVD theo thể loại.
 
 ## [1.0.0] - 2026-11-02
 ### Added
